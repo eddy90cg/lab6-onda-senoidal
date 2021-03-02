@@ -102,41 +102,14 @@ Lista de Materiales y componetes necesarios para desarrollar experimental del la
 
 * Los resultados y comportamiento visto mediante los diferentes tipos de circuito es atraves de un osciloscopio, se observa que:
 
-Frecuencia 100 Hz - Vp = 10 v - Circuito Rc:
+![WhatsApp Image 2021-03-02 at 1 07 24 PM](https://user-images.githubusercontent.com/76057459/109694831-3a93c280-7b59-11eb-82fa-0ee3d8a4e8f8.jpeg)
 
-![]()
-
-Frecuencia 100 Hz - Vp = 10 v - Circuito Rl:
-
-![]()
 
 * Se observa los resultados:
 
-  *Para  cada  uno  de los  circuitos anteriores, elabore  una  tabla  con  los  resultados de las diferentes  mediciones  de  voltaje  realizadas  con  el  osciloscopio,   multímetro  y  las calculadas  en  el  trabajo  preparatorio.  Compare  y  comente  los  resultados  obtenidos tomando en cuenta las distintas frecuencias utilizadas.  Voltaje de pico = 10 [V]  
+ ![WhatsApp Image 2021-03-02 at 12 23 03 PM](https://user-images.githubusercontent.com/76057459/109695134-90686a80-7b59-11eb-87d7-8dfac8003881.jpeg)
+![WhatsApp Image 2021-03-02 at 12 36 51 PM](https://user-images.githubusercontent.com/76057459/109695158-96f6e200-7b59-11eb-84bf-6d900d96bc1d.jpeg)
 
-    * Capacitores:
-  
-  ![]()
-  
-    * Inductores:
-
-  ![]()
-
-  *Corriente  y el voltaje realizados con el multímetro para calcular la reactancia  𝑋= 𝑉𝑜/𝐼  en cada una de las frecuencias y también para calcular los valores de 𝐿𝑒𝑞 y  𝐶𝑒𝑞 según sea el caso.  Anote  los  resultados  en  una  tabla  haciendo  constar  también  las  frecuencias. Comente los resultados.  𝑍=𝑅 + 𝑗𝑋
-
-    * Reactancia Circuito RC:
-
-  ![]()
-  
-    * Reactancia Circuito RL:
-
-
-  
-
- * Calculos correspondientes para el experimento :
-
-
-    * Revisar la seccion ANEXOS
 
 
 # 6.	PROCEDIMIENTO y EXPERIMENTACION
