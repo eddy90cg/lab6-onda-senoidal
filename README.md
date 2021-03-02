@@ -123,32 +123,54 @@ Lista de Materiales y componetes necesarios para desarrollar experimental del la
 Empezamos con la realizacion el circuito presentado en el diagrama en la plata forma proteus para realizar el simulado del circuito, despues buscamos y conectamos los componentes y poniendo los valores tanto del voltaje pico a pico como la frecuencia que va a existir en la fuente de voltaje respectiva y responderemos las siguientes preguntas.
 CALCULOS :
 1. RESISTENCIA TOTAL
+
 RT = 𝑅1 + 𝑇𝐿
+
 𝑅𝑇 = (1000 + 2200)Ω
+
 𝑅𝑇 = 3200 Ω
+
+
 2. INTENSIDAD TOTAL
+
 𝐼𝑇 =𝑉𝑎𝑐/Rt
+
 𝐼𝑇 =10V/3200
+
 𝐼𝑇 = 3.125 𝑚�
+
 3.𝑓𝑜𝑟𝑚𝑢𝑙𝑎 𝑑𝑒 𝑑𝑖𝑣𝑖𝑠𝑜𝑟 𝑑𝑒
 𝑑𝑒 𝑣𝑜𝑙𝑡𝑎𝑗𝑒 𝑝𝑎𝑟𝑎 𝑠𝑎𝑏𝑒𝑟 𝑒𝑙 𝑣𝑜𝑙𝑡𝑎𝑗𝑒 𝑑𝑒 𝑅𝐿
+
 𝑉𝑅𝐿 =𝑉𝑇.RL
+
 𝑉𝑇(RL)=3,125(2,2)
+
 VRL=6,87(V)
+
 4.VOLTAJE RMS
+
 𝑉𝑟𝑚𝑠 = 0.707𝑉𝑝
+
 𝐸𝑛𝑡𝑜𝑛𝑐𝑒𝑠:
 𝑉𝑟𝑚𝑠 = 0.707(6.875𝑉)
+
 𝑉𝑟𝑚𝑠 = 4.86 mA
 
 5.velocidad angular
 ω = 2πf
+
 ω = 2π2(2500Hz)
+
 ω = 15707.96 rad/s
 
+
 CALCULO DEL ERROR
+
 voltaje pico=0,36%
+
 voltaje rms=0,78%
+
 
 # 7. APORTACIONES y PREGUNTAS
 
