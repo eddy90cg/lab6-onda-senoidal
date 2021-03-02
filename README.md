@@ -24,6 +24,8 @@ OBJETIVOS ESPECÍFICOS:
 
 * Resumen: 
 
+![](https://github.com/eddy90cg/lab6-onda-senoidal/blob/main/im/mentefacto.jpg)
+
 Las ondas senoidales son patrones de ondas que matemáticamente pueden ser descritas mediante las funciones seno y coseno. Describen acertadamente eventos naturales y señales variables en el tiempo, tales como los voltajes generados por centrales eléctricas y luego utilizados en hogares, industrias y calles.
 Elementos eléctricos como resistencias, condensadores e inductancias, que se conectan a entradas de voltaje sinusoidal, producen respuestas también sinusoidales. Las matemáticas que se utilizan en su descripción son relativamente sencillas y han sido minuciosamente estudiadas.
 Onda senoidal representa el valor de la tensión de la Corriente alterna a través de un tiempo continuamente variable, en un par de ejes cartesianos marcados en amplitud y tiempo. Responde a la corriente de canalización generada en las grandes plantas eléctricas del mundo. También responden a la misma forma, todas las corrientes destinadas a generar los campos electromagnéticos de las ondas de radio.
@@ -220,7 +222,9 @@ Obtenido de :
 
       https://github.com/eddy90cg/lab6-onda-senoidal/blob/main/Anexos/CamScanner%2003-02-2021%2013.20.pdf
 
+* Mentefacto :
 
+      https://github.com/eddy90cg/lab6-onda-senoidal/blob/main/Anexos/organixzador%20grafico.pdf
      
  
 
