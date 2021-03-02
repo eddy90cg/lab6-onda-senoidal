@@ -1,4 +1,6 @@
 # lab6-fce
+
+
 # LABORATORIO 6 - Cracteristicas Onda Senoidal
 
 
@@ -6,21 +8,19 @@
 
 OBJETIVO GENERAL:
 
-* 
-Determinar experimentalmente las características de señales senoidales.
+* Determinar experimentalmente las características de señales senoidales.
 Realizar el circuito propuesto  y  observar la onda senoidad reconocer e interpretar sus caracteristicas
 
 OBJETIVOS ESPECÍFICOS: 
 
-Reconocer e interpretar  las caracteristicas de la onda senoidal
-obtener la frecuencia a partir de los datos obtenidos con el osiloscopio
-Observar la diferencia de voltaje rms y voltaje pico 
-* 
+* Reconocer e interpretar  las caracteristicas de la onda senoidal
+* Obtener la frecuencia a partir de los datos obtenidos con el osiloscopio
+* Observar la diferencia de voltaje rms y voltaje pico 
+ 
 
 
 # 2.	MARCO TEÓRICO
 
-# 
 
 * Resumen: 
 
@@ -31,28 +31,33 @@ Onda senoidal representa el valor de la tensión de la Corriente alterna a trav�
 
 
 ![onda-senoidal1](https://user-images.githubusercontent.com/76057459/109590649-5ad06c80-7ada-11eb-8a57-5b67199c551d.jpg)
+
 Figura 1. Una onda senoidal con algunas de sus principales características espaciales: amplitud, longitud de onda y fase.
 La matemática de las ondas senoidales o sinusoidales, como también se las conoce, es la de las funciones seno y coseno.
 
 Se trata de funciones repetitivas, lo que significa periodicidad. Ambas tienen idéntica forma, con la salvedad de que el coseno está desplazado hacia la izquierda respecto al seno en un cuarto de ciclo. Se observa en la figura 2:
+
 ![ondas-senoidales-2](https://user-images.githubusercontent.com/76057459/109590851-ad118d80-7ada-11eb-844f-2f7c16a2f290.jpg)
 
 Una onda senoidal se caracteriza por:
 
  * Amplitud: A0
- *  Longitud de onda (λ) es la distancia entre dos máximos o compresiones consecutivos.
- *Período: tiempo en completar un ciclo, medido en segundos. T
+ * Longitud de onda (λ) es la distancia entre dos máximos o compresiones consecutivos.
+ * Período: tiempo en completar un ciclo, medido en segundos. T
  * Frecuencia: es el número de veces que se repite un ciclo en un segundo, se mide en (Hz) y es la inversa del periodo (f=1/T)
  * Fase: el ángulo de fase inicial en radianes. (ßRd). Es el punto donde nace el sonido. Fase 0 indica que el sonido parte de cero y fase de 90º, que empieza en su valor máximo. Como la función matemática del seno, es decir, sin(0) = 0 y sin(90) = 1.
 
  * altura: se vincula tradicionalmente a la frecuencia o periodo de la fundamental.
- *amplitud: corresponde al volumen del sonido. En el mundo real se mide en decibelios (dB) y su rango suele estar entre los 20 y los 120 dBs, pero en el mundo digital hablamos de ceros y unos.
+ * amplitud: corresponde al volumen del sonido. En el mundo real se mide en decibelios (dB) y su rango suele estar entre los 20 y los 120 dBs, pero en el mundo digital hablamos de ceros y unos.
+
 Todo esto, pues, tiene que ver con la forma en que describimos las ondas. Su fórmula es
+
 Posicion(tiempo)=Amplitud*sin(frecuencia*tiempo+fase)
- * frecuencia: es la velocidad a la que se mueve o vibra el sonido (la senoide). Por ejemplo una frecuencia de 440 Hz corresponde a un LA en la octava media de un piano. Esta es por ejemplo la nota a la que se suele afinar. Es una magnitud subjetiva y se refiere a la altura o gravedad de un sonido. Sin enbargo, la frecuencia es una magnitud objetiva y mensurable referida a formas de onda periódicas. Para expresar una frecuencia lo hacemos refiriéndonos a vibraciones por segundo. Así un frecuencia de 1 Herzio es lo mismo que decir que el sonido tiene una vibración por segundo
+
+* frecuencia: es la velocidad a la que se mueve o vibra el sonido (la senoide). Por ejemplo una frecuencia de 440 Hz corresponde a un LA en la octava media de un piano. Esta es por ejemplo la nota a la que se suele afinar. Es una magnitud subjetiva y se refiere a la altura o gravedad de un sonido. Sin enbargo, la frecuencia es una magnitud objetiva y mensurable referida a formas de onda periódicas. Para expresar una frecuencia lo hacemos refiriéndonos a vibraciones por segundo. Así un frecuencia de 1 Herzio es lo mismo que decir que el sonido tiene una vibración por segundo
 
 
-¿Cómo calcular las ondas senoidales?
+* ¿Cómo calcular las ondas senoidales?
 Para realizar cálculos que involucren ondas senoidales se utiliza una calculadora científica que disponga de las funciones trigonométricas seno y coseno, así como sus inversas. Estas calculadoras disponen de modos para trabajar los ángulos ya sea en grados o en radianes, y es sencillo convertir de una forma a la otra. El factor de conversión es:
 
 180 º = π radianes.
@@ -60,6 +65,7 @@ Para realizar cálculos que involucren ondas senoidales se utiliza una calculado
 Según el modelo de la calculadora, deberá navegar mediante la tecla MODE para encontrar la opción DEGREE, que permite trabajar las funciones trigonométricas en grados, o bien la opción RAD, para trabajar directamente los ángulos en radianes.
 
 Por ejemplo sen 25 º = 0.4226 con la calculadora puesta en modo DEG. Al convertir 25 º a radianes se obtiene 0.4363 radianes y sen 0.4363 rad = 0.425889 ≈ 0.4226.
+
 * Introducción:
 
 Osciloscopio (también conocido con el nombre "Oscilógrafo") es una de las más importantes e indispensables herramientas para analizar las señales eléctricas. Hoy día no hay un sólo taller de electrónica o centro de servicio que no tenga este aparato. ¿Pero qué exactamente hacen estos equipos? Los osciloscopios permiten visualizar los cambios de amplitud de señal suministrada durante un lapso de tiempo, observar, medir y grabar esta señal. Un osciloscopio moderno es una herramienta versátil, que permite chequear, ajustar y detectar las fallas no solamente en los componentes electrónicos aislados, sino también en los módulos completos.
@@ -68,17 +74,18 @@ Osciloscopio (también conocido con el nombre "Oscilógrafo") es una de las más
 * Desarrollo:
 
 
- ![]()
+ ![](https://github.com/eddy90cg/lab6-onda-senoidal/blob/main/im/diagrama%20a%20realizar.jpg)
 
 
 # 3. EXPLICACIÓN
 
-1. Implemente el circuito que se presenta en la figura 7.1
+1. Implemente el circuito que se presenta en la figura 
 
-Figura 7.1. Circuito con alimentación en c.a.
+Figura  Circuito con alimentación en c.a.
 
 2. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
 una frecuencia de 2.5 Khz.
+
 3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
 el osciloscopio.
  
@@ -100,63 +107,63 @@ Lista de Materiales y componetes necesarios para desarrollar experimental del la
 
 # 5.	DIAGRAMAS y RESULTADOS
 
-* Los resultados y comportamiento visto mediante los diferentes tipos de circuito es atraves de un osciloscopio, se observa que:
+![](https://github.com/eddy90cg/lab6-onda-senoidal/blob/main/im/simulada%20proteus.jpeg)
 
-![WhatsApp Image 2021-03-02 at 1 07 24 PM](https://user-images.githubusercontent.com/76057459/109694831-3a93c280-7b59-11eb-82fa-0ee3d8a4e8f8.jpeg)
+ * Calculos correspondientes para el experimento :
 
 
-* Se observa los resultados:
-
- ![WhatsApp Image 2021-03-02 at 12 23 03 PM](https://user-images.githubusercontent.com/76057459/109695134-90686a80-7b59-11eb-87d7-8dfac8003881.jpeg)
-![WhatsApp Image 2021-03-02 at 12 36 51 PM](https://user-images.githubusercontent.com/76057459/109695158-96f6e200-7b59-11eb-84bf-6d900d96bc1d.jpeg)
-
+    * Revisar la sección ANEXOS
 
 
 # 6.	PROCEDIMIENTO y EXPERIMENTACION
 
-realizar el circuito presentado en el diagrama en la plata forma proteus para realizar el simulado del circuito, despues buscamos y conectamos los componentes y poniendo los valores tanto del voltaje pico a pico como la frecuencia que va a existir en la fuente de voltaje respectiva y responderemos las siguientes preguntas.
+Empezamos con la realizacion el circuito presentado en el diagrama en la plata forma proteus para realizar el simulado del circuito, despues buscamos y conectamos los componentes y poniendo los valores tanto del voltaje pico a pico como la frecuencia que va a existir en la fuente de voltaje respectiva y responderemos las siguientes preguntas.
 
 
 
-
-!
 # 7. APORTACIONES y PREGUNTAS
+
 Responda las siguientes preguntas:
+
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
-8 divisiones de salida
+3 voltios por cuadro
 
-¿En qué valor está posicionada la perilla VOLTS/DIV?  
+* ¿En qué valor está posicionada la perilla VOLTS/DIV?  
+
 1.4
 
-¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+* ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
 8 divisiones
 
-¿En qué valor está posicionada la perilla TIME/DIV? 
+* ¿En qué valor está posicionada la perilla TIME/DIV? 
 
 50us
 
-7.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
+* ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
 del osciloscopio?  
 
 Amplitud de voltaje: 11.2
 Periodo: 0,0004
 
-7.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
+* Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
 salida.
 
 f: 2500 HZ
 ω: 5000 rad/s
 
-7.5.7. Con el multímetro digital mida el voltaje de salida en RL: 9,71 V
+* Con el multímetro digital mida el voltaje de salida en RL: 
+ 
+ 9,71 V
 
-9.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
+* Compare el voltaje medido en el punto anterior y el obtenido en el punto siguiente.
 
-¿Coinciden? NO COINCIDEN YA QUE SE HABLA DE UN VOLTAJE PICO Y EL OTRO ES UN VOLTAJE RMS O EFICAZ  EN EL OSILOSCOPIO OBTENEMOS UN VALOR  PICO MIENTRAS QU EPARA OBTENER EL VALOR EFICAZ DIVIDIMOS PARA  RAIZ DE 2, EN EL MULTIMETRO DIGITAL YA NOS PROPORCIONA EL VALOR EFICAZ
+¿Coinciden? NO COINCIDEN YA QUE SE HABLA DE UN VOLTAJE PICO Y EL OTRO ES UN VOLTAJE RMS O EFICAZ  EN EL OSILOSCOPIO OBTENEMOS UN VALOR  PICO MIENTRAS QUE EPARA OBTENER EL VALOR EFICAZ DIVIDIMOS PARA  RAIZ DE 2, EN EL MULTIMETRO DIGITAL YA NOS PROPORCIONA EL VALOR EFICAZ
 _______________________________________________
 
 # 8.	CONCLUSIONES
+
 Mediante la practica se observo el comportamiento de la onda senoidal y sus caracteristicas las se pueden obtener mediante calculos y analizar los valor de cada una 
 se observar la diferencia de voltaje rms y voltaje pico al momento de realizar la practica y comparar las mediciones con el oscilometro y el multimetro digital.
 -el software proteus es util en este tipo de practicas ya que posee variedad de elementos que se necesita para simular el circuito
@@ -165,7 +172,7 @@ se observar la diferencia de voltaje rms y voltaje pico al momento de realizar l
 
 Obtenido de:
 
-   https://www.lifeder.com/onda-senoidal/
+    https://www.lifeder.com/onda-senoidal/
  
  
 Obtenido de:
@@ -173,7 +180,8 @@ Obtenido de:
     http://ondasguiadasdiana.blogspot.com/2016/08/caracteristicas-de-las-ondas-senoidales.html
 
 Obtenido de :
-https://www.ecured.cu/Onda_senoidal#:~:text=Concepto%3A,marcados%20en%20amplitud%20y%20tiempo.
+
+    https://www.ecured.cu/Onda_senoidal#:~:text=Concepto%3A,marcados%20en%20amplitud%20y%20tiempo.
 
 
 # 10. ANEXOS
@@ -181,11 +189,8 @@ https://www.ecured.cu/Onda_senoidal#:~:text=Concepto%3A,marcados%20en%20amplitud
 
 * Calculos a pdf:
 
-    
+      https://github.com/eddy90cg/lab6-onda-senoidal/blob/main/Anexos/CamScanner%2003-02-2021%2013.20.pdf
 
-
-  
- * Mentefacto pdf:
 
      
  
