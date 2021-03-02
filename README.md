@@ -123,95 +123,73 @@ Lista de Materiales y componetes necesarios para desarrollar experimental del la
 Empezamos con la realizacion el circuito presentado en el diagrama en la plata forma proteus para realizar el simulado del circuito, despues buscamos y conectamos los componentes y poniendo los valores tanto del voltaje pico a pico como la frecuencia que va a existir en la fuente de voltaje respectiva y responderemos las siguientes preguntas.
 CALCULOS :
 1. RESISTENCIA TOTAL
-
 RT = 𝑅1 + 𝑇𝐿
-
 𝑅𝑇 = (1000 + 2200)Ω
-
 𝑅𝑇 = 3200 Ω
-
-
 2. INTENSIDAD TOTAL
-
 𝐼𝑇 =𝑉𝑎𝑐/Rt
-
 𝐼𝑇 =10V/3200
-
 𝐼𝑇 = 3.125 𝑚�
-
 3.𝑓𝑜𝑟𝑚𝑢𝑙𝑎 𝑑𝑒 𝑑𝑖𝑣𝑖𝑠𝑜𝑟 𝑑𝑒
 𝑑𝑒 𝑣𝑜𝑙𝑡𝑎𝑗𝑒 𝑝𝑎𝑟𝑎 𝑠𝑎𝑏𝑒𝑟 𝑒𝑙 𝑣𝑜𝑙𝑡𝑎𝑗𝑒 𝑑𝑒 𝑅𝐿
-
 𝑉𝑅𝐿 =𝑉𝑇.RL
-
 𝑉𝑇(RL)=3,125(2,2)
-
 VRL=6,87(V)
-
 4.VOLTAJE RMS
-
 𝑉𝑟𝑚𝑠 = 0.707𝑉𝑝
-
 𝐸𝑛𝑡𝑜𝑛𝑐𝑒𝑠:
 𝑉𝑟𝑚𝑠 = 0.707(6.875𝑉)
-
 𝑉𝑟𝑚𝑠 = 4.86 mA
 
 5.velocidad angular
 ω = 2πf
-
 ω = 2π2(2500Hz)
-
 ω = 15707.96 rad/s
 
-
 CALCULO DEL ERROR
-
 voltaje pico=0,36%
-
 voltaje rms=0,78%
-
 
 # 7. APORTACIONES y PREGUNTAS
 
 Responda las siguientes preguntas:
 
-¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+* ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
-3 voltios por cuadro
+  3 voltios por cuadro
 
 * ¿En qué valor está posicionada la perilla VOLTS/DIV?  
 
-1.4
+  1.4
 
 * ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
-8 divisiones
+  8 divisiones
 
 * ¿En qué valor está posicionada la perilla TIME/DIV? 
 
-50us
+  50us
 
 * ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
 del osciloscopio?  
 
-Amplitud de voltaje: 11.2
-Periodo: 0,0004
+  Amplitud de voltaje: 11.2
+  Periodo: 0,0004
 
 * Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
 salida.
 
-f: 2500 HZ
-ω: 5000 rad/s
+  f: 2500 HZ
+  ω: 5000 rad/s
 
 * Con el multímetro digital mida el voltaje de salida en RL: 
  
- 9,71 V
+   9,71 V
 
 * Compare el voltaje medido en el punto anterior y el obtenido en el punto siguiente.
 
-¿Coinciden? NO COINCIDEN YA QUE SE HABLA DE UN VOLTAJE PICO Y EL OTRO ES UN VOLTAJE RMS O EFICAZ  EN EL OSILOSCOPIO OBTENEMOS UN VALOR  PICO MIENTRAS QUE EPARA OBTENER EL VALOR EFICAZ DIVIDIMOS PARA  RAIZ DE 2, EN EL MULTIMETRO DIGITAL YA NOS PROPORCIONA EL VALOR EFICAZ
-_______________________________________________
+   ¿Coinciden? NO COINCIDEN YA QUE SE HABLA DE UN VOLTAJE PICO Y EL OTRO ES UN VOLTAJE RMS O EFICAZ  EN EL OSILOSCOPIO OBTENEMOS UN VALOR  PICO MIENTRAS QUE EPARA OBTENER EL VALOR EFICAZ DIVIDIMOS PARA  RAIZ DE 2, EN EL MULTIMETRO DIGITAL YA NOS PROPORCIONA EL VALOR EFICAZ
+___________________________________________________________________________________________________________________________________________________________________________
 
 # 8.	CONCLUSIONES
 
