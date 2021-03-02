@@ -108,12 +108,15 @@ Lista de Materiales y componetes necesarios para desarrollar experimental del la
 # 5.	DIAGRAMAS y RESULTADOS
 
 ![](https://github.com/eddy90cg/lab6-onda-senoidal/blob/main/im/simulada%20proteus.jpeg)
+![WhatsApp Image 2021-03-02 at 12 23 03 PM](https://user-images.githubusercontent.com/76057459/109697006-b131bf80-7b5b-11eb-9a21-0c42573ea54a.jpeg)
 
- * Calculos correspondientes para el experimento :
 
+  Calculos correspondientes para el experimento :
+  ![WhatsApp Image 2021-03-02 at 1 27 21 PM](https://user-images.githubusercontent.com/76057459/109696986-ab3bde80-7b5b-11eb-97a8-bc6e1e3c1676.jpeg)
 
-    * Revisar la sección ANEXOS
+  imagen osiloscopio
 
+    * Revisar la sección ANEXO
 
 # 6.	PROCEDIMIENTO y EXPERIMENTACION
 
