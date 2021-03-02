@@ -1,1 +1,3 @@
-aqui ira el video de la grabacion 
+link de la grabacionn realizada simulando la practica planteada en el laboratorio 6, realizado con el software Proteus 8
+
+https://www.youtube.com/watch?v=w5mNi71h1xo
